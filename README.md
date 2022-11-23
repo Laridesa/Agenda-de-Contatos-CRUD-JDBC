@@ -1,6 +1,12 @@
 # CRUDJDBC
+Atividade: DAO que realiza as operações de CRUD utilizando querys e JDBC 
+
 CRUD, JDBC, DAO
 Canal usado como referência: https://www.youtube.com/@ProfessorJosedeAssis
+
+
+Link direto: https://github.com/Laridesa/CRUDJDBC/tree/main/agenda/src/main
+
 
 Script SQL:
 
